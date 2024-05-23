@@ -1,0 +1,706 @@
+2024-04-29 10:33:35,075 :INFO :test_e2e :The phones are: 
+2024-04-29 10:33:35,092 :INFO :phone_items :[<selenium.webdriver.remote.webelement.WebElement (session="aa73ad78a96993913e87effc7f3c7466", element="f.F332CE7795E7C26C7D30BD3E60F14D8C.d.A51F251AB8CD2038BECE2352BBA361C1.e.64")>, <selenium.webdriver.remote.webelement.WebElement (session="aa73ad78a96993913e87effc7f3c7466", element="f.F332CE7795E7C26C7D30BD3E60F14D8C.d.A51F251AB8CD2038BECE2352BBA361C1.e.66")>, <selenium.webdriver.remote.webelement.WebElement (session="aa73ad78a96993913e87effc7f3c7466", element="f.F332CE7795E7C26C7D30BD3E60F14D8C.d.A51F251AB8CD2038BECE2352BBA361C1.e.68")>, <selenium.webdriver.remote.webelement.WebElement (session="aa73ad78a96993913e87effc7f3c7466", element="f.F332CE7795E7C26C7D30BD3E60F14D8C.d.A51F251AB8CD2038BECE2352BBA361C1.e.70")>]
+2024-04-29 10:33:35,092 :INFO :phone_items :<selenium.webdriver.remote.webelement.WebElement (session="aa73ad78a96993913e87effc7f3c7466", element="f.F332CE7795E7C26C7D30BD3E60F14D8C.d.A51F251AB8CD2038BECE2352BBA361C1.e.64")>
+2024-04-29 10:33:37,949 :INFO :test_e2e :None
+2024-04-29 10:36:52,891 :INFO :test_e2e :The phones are: 
+2024-04-29 10:36:52,908 :INFO :phone_items :[<selenium.webdriver.remote.webelement.WebElement (session="3b13f9e1c3f63d680b2ef211d8733caf", element="f.0C5E27BC25E237384FD878EF45E65384.d.8AECE860BB6EB9D54A6185DB41997085.e.64")>, <selenium.webdriver.remote.webelement.WebElement (session="3b13f9e1c3f63d680b2ef211d8733caf", element="f.0C5E27BC25E237384FD878EF45E65384.d.8AECE860BB6EB9D54A6185DB41997085.e.66")>, <selenium.webdriver.remote.webelement.WebElement (session="3b13f9e1c3f63d680b2ef211d8733caf", element="f.0C5E27BC25E237384FD878EF45E65384.d.8AECE860BB6EB9D54A6185DB41997085.e.68")>, <selenium.webdriver.remote.webelement.WebElement (session="3b13f9e1c3f63d680b2ef211d8733caf", element="f.0C5E27BC25E237384FD878EF45E65384.d.8AECE860BB6EB9D54A6185DB41997085.e.70")>]
+2024-04-29 10:36:53,144 :INFO :phone_items :iphone X
+$24.99
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+Add ★ ★ ★ ★ ☆
+2024-04-29 10:36:55,666 :INFO :test_e2e :
+2024-04-29 10:37:06,493 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-29 10:48:39,197 :INFO :test_e2e :The phones are: 
+2024-04-29 10:48:39,257 :INFO :phone_items :iphone X
+2024-04-29 10:48:41,502 :INFO :test_e2e :ind
+2024-04-29 10:48:52,495 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-29 10:51:01,167 :INFO :test_e2e :The phones are: 
+2024-04-29 10:51:01,228 :INFO :phone_items :iphone X
+2024-04-29 10:51:01,312 :INFO :phone_items :Samsung Note 8
+2024-04-29 10:51:01,324 :INFO :phone_items :Nokia Edge
+2024-04-29 10:51:01,332 :INFO :phone_items :Blackberry
+2024-04-29 10:51:03,736 :INFO :test_e2e :ind
+2024-04-29 10:51:14,556 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-29 10:53:54,959 :INFO :test_homepage :None
+2024-04-29 10:54:00,821 :INFO :test_homepage :None
+2024-04-29 10:54:00,821 :INFO :test_homepage :None
+2024-04-29 10:57:52,526 :INFO :test_homepage :Shailaja
+2024-04-29 10:57:59,027 :INFO :test_homepage :Rahul
+2024-04-29 10:57:59,027 :INFO :test_homepage :Rahul
+2024-04-29 11:03:13,840 :INFO :test_homepage :Shailaja
+2024-04-29 11:03:14,825 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-29 11:03:15,114 :INFO :test_homepage :Qwerty$#21
+2024-04-29 11:03:15,717 :INFO :test_homepage :Female
+2024-04-29 11:03:16,216 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-29 11:03:16,216 :INFO :test_homepage : Samal
+2024-04-29 11:07:37,547 :INFO :test_homepage :Shailaja
+2024-04-29 11:07:38,486 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-29 11:07:38,740 :INFO :test_homepage :Qwerty$#21
+2024-04-29 11:07:39,380 :INFO :test_homepage :Female
+2024-04-29 11:07:39,591 :INFO :test_homepage :Shailaja Samal
+2024-04-29 11:07:39,874 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-29 11:09:17,084 :INFO :test_homepage :Shailaja
+2024-04-29 11:09:17,198 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-29 11:09:17,231 :INFO :test_homepage :Qwerty$#21
+2024-04-29 11:09:17,472 :INFO :test_homepage :Female
+2024-04-29 11:09:17,711 :INFO :test_homepage :Shailaja Samal
+2024-04-29 11:09:17,988 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-29 11:09:21,555 :INFO :test_homepage :Rahul
+2024-04-29 11:09:21,555 :INFO :test_homepage :Rahul
+2024-04-29 11:09:21,604 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-29 11:09:21,604 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-29 11:09:21,616 :INFO :test_homepage :Qwerty$#22
+2024-04-29 11:09:21,616 :INFO :test_homepage :Qwerty$#22
+2024-04-29 11:09:21,837 :INFO :test_homepage :Male
+2024-04-29 11:09:21,837 :INFO :test_homepage :Male
+2024-04-29 11:09:21,854 :INFO :test_homepage :Rahul Shetty
+2024-04-29 11:09:21,854 :INFO :test_homepage :Rahul Shetty
+2024-04-29 11:09:22,083 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-29 11:09:22,083 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-29 11:20:36,827 :INFO :test_homepage :Shailaja
+2024-04-29 11:20:37,698 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-29 11:20:37,939 :INFO :test_homepage :Qwerty$#21
+2024-04-29 11:20:38,524 :INFO :test_homepage :Female
+2024-04-29 11:20:38,734 :INFO :test_homepage :Shailaja Samal
+2024-04-29 11:20:38,981 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-29 11:20:43,118 :INFO :test_homepage :Rahul
+2024-04-29 11:20:43,118 :INFO :test_homepage :Rahul
+2024-04-29 11:20:43,268 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-29 11:20:43,268 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-29 11:20:43,631 :INFO :test_homepage :Qwerty$#22
+2024-04-29 11:20:43,631 :INFO :test_homepage :Qwerty$#22
+2024-04-29 11:20:43,926 :INFO :test_homepage :Male
+2024-04-29 11:20:43,926 :INFO :test_homepage :Male
+2024-04-29 11:20:44,041 :INFO :test_homepage :Rahul Shetty
+2024-04-29 11:20:44,041 :INFO :test_homepage :Rahul Shetty
+2024-04-29 11:20:44,414 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-29 11:20:44,414 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-29 11:23:25,920 :INFO :test_e2e :The phones are: 
+2024-04-29 11:23:25,980 :INFO :phone_items :iphone X
+2024-04-29 11:23:26,058 :INFO :phone_items :Samsung Note 8
+2024-04-29 11:23:26,074 :INFO :phone_items :Nokia Edge
+2024-04-29 11:23:26,083 :INFO :phone_items :Blackberry
+2024-04-29 11:23:28,876 :INFO :test_e2e :ind
+2024-04-29 11:23:42,040 :INFO :test_homepage :Shailaja
+2024-04-29 11:23:42,834 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-29 11:23:43,108 :INFO :test_homepage :Qwerty$#21
+2024-04-29 11:23:43,694 :INFO :test_homepage :Female
+2024-04-29 11:23:43,922 :INFO :test_homepage :Shailaja Samal
+2024-04-29 11:23:44,169 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-29 11:23:48,222 :INFO :test_homepage :Rahul
+2024-04-29 11:23:48,222 :INFO :test_homepage :Rahul
+2024-04-29 11:23:48,345 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-29 11:23:48,345 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-29 11:23:48,456 :INFO :test_homepage :Qwerty$#22
+2024-04-29 11:23:48,456 :INFO :test_homepage :Qwerty$#22
+2024-04-29 11:23:48,693 :INFO :test_homepage :Male
+2024-04-29 11:23:48,693 :INFO :test_homepage :Male
+2024-04-29 11:23:48,777 :INFO :test_homepage :Rahul Shetty
+2024-04-29 11:23:48,777 :INFO :test_homepage :Rahul Shetty
+2024-04-29 11:23:49,036 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-29 11:23:49,036 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-29 11:36:25,814 :INFO :test_e2e :The phones are: 
+2024-04-29 11:36:25,996 :INFO :phone_items :iphone X
+2024-04-29 11:36:26,098 :INFO :phone_items :Samsung Note 8
+2024-04-29 11:36:26,117 :INFO :phone_items :Nokia Edge
+2024-04-29 11:36:26,126 :INFO :phone_items :Blackberry
+2024-04-29 11:36:29,180 :INFO :test_e2e :ind
+2024-04-29 11:36:42,086 :INFO :test_homepage :Shailaja
+2024-04-29 11:36:42,865 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-29 11:36:43,229 :INFO :test_homepage :Qwerty$#21
+2024-04-29 11:36:43,776 :INFO :test_homepage :Female
+2024-04-29 11:36:43,995 :INFO :test_homepage :Shailaja Samal
+2024-04-29 11:36:44,237 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-29 11:36:48,173 :INFO :test_homepage :Rahul
+2024-04-29 11:36:48,173 :INFO :test_homepage :Rahul
+2024-04-29 11:36:48,292 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-29 11:36:48,292 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-29 11:36:48,378 :INFO :test_homepage :Qwerty$#22
+2024-04-29 11:36:48,378 :INFO :test_homepage :Qwerty$#22
+2024-04-29 11:36:48,609 :INFO :test_homepage :Male
+2024-04-29 11:36:48,609 :INFO :test_homepage :Male
+2024-04-29 11:36:48,690 :INFO :test_homepage :Rahul Shetty
+2024-04-29 11:36:48,690 :INFO :test_homepage :Rahul Shetty
+2024-04-29 11:36:48,931 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-29 11:36:48,931 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:11:46,768 :INFO :test_e2e :The phones are: 
+2024-04-30 13:11:46,829 :INFO :phone_items :iphone X
+2024-04-30 13:11:46,906 :INFO :phone_items :Samsung Note 8
+2024-04-30 13:11:46,920 :INFO :phone_items :Nokia Edge
+2024-04-30 13:11:46,928 :INFO :phone_items :Blackberry
+2024-04-30 13:11:49,440 :INFO :test_e2e :ind
+2024-04-30 13:12:03,026 :INFO :test_homepage :Shailaja
+2024-04-30 13:12:03,827 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 13:12:04,086 :INFO :test_homepage :Qwerty$#21
+2024-04-30 13:12:04,729 :INFO :test_homepage :Female
+2024-04-30 13:12:04,937 :INFO :test_homepage :Shailaja Samal
+2024-04-30 13:12:05,191 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:12:09,303 :INFO :test_homepage :Rahul
+2024-04-30 13:12:09,303 :INFO :test_homepage :Rahul
+2024-04-30 13:12:09,437 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:12:09,437 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:12:09,617 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:12:09,617 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:12:10,056 :INFO :test_homepage :Male
+2024-04-30 13:12:10,056 :INFO :test_homepage :Male
+2024-04-30 13:12:10,146 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:12:10,146 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:12:10,503 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:12:10,503 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:22:59,965 :INFO :test_e2e :The phones are: 
+2024-04-30 13:23:00,029 :INFO :phone_items :iphone X
+2024-04-30 13:23:00,112 :INFO :phone_items :Samsung Note 8
+2024-04-30 13:23:00,123 :INFO :phone_items :Nokia Edge
+2024-04-30 13:23:00,131 :INFO :phone_items :Blackberry
+2024-04-30 13:23:02,550 :INFO :test_e2e :ind
+2024-04-30 13:23:15,443 :INFO :test_homepage :Shailaja
+2024-04-30 13:23:16,305 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 13:23:16,540 :INFO :test_homepage :Qwerty$#21
+2024-04-30 13:23:17,156 :INFO :test_homepage :Female
+2024-04-30 13:23:17,379 :INFO :test_homepage :Shailaja Samal
+2024-04-30 13:23:17,684 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:23:21,902 :INFO :test_homepage :Rahul
+2024-04-30 13:23:21,902 :INFO :test_homepage :Rahul
+2024-04-30 13:23:22,046 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:23:22,046 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:23:22,178 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:23:22,178 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:23:22,558 :INFO :test_homepage :Male
+2024-04-30 13:23:22,558 :INFO :test_homepage :Male
+2024-04-30 13:23:22,659 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:23:22,659 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:23:23,091 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:23:23,091 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:29:39,089 :INFO :test_e2e :The phones are: 
+2024-04-30 13:29:39,160 :INFO :phone_items :iphone X
+2024-04-30 13:29:39,261 :INFO :phone_items :Samsung Note 8
+2024-04-30 13:29:39,281 :INFO :phone_items :Nokia Edge
+2024-04-30 13:29:39,290 :INFO :phone_items :Blackberry
+2024-04-30 13:29:42,871 :INFO :test_e2e :ind
+2024-04-30 13:29:54,148 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 13:30:04,950 :INFO :test_homepage :Shailaja
+2024-04-30 13:30:05,664 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 13:30:06,067 :INFO :test_homepage :Qwerty$#21
+2024-04-30 13:30:06,638 :INFO :test_homepage :Female
+2024-04-30 13:30:06,843 :INFO :test_homepage :Shailaja Samal
+2024-04-30 13:30:07,088 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:30:11,185 :INFO :test_homepage :Rahul
+2024-04-30 13:30:11,185 :INFO :test_homepage :Rahul
+2024-04-30 13:30:11,315 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:30:11,315 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:30:11,433 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:30:11,433 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:30:11,856 :INFO :test_homepage :Male
+2024-04-30 13:30:11,856 :INFO :test_homepage :Male
+2024-04-30 13:30:11,947 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:30:11,947 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:30:12,285 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:30:12,285 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:33:23,244 :INFO :test_e2e :The phones are: 
+2024-04-30 13:33:23,271 :INFO :phone_items :iphone X
+2024-04-30 13:33:23,283 :INFO :phone_items :Samsung Note 8
+2024-04-30 13:33:23,291 :INFO :phone_items :Nokia Edge
+2024-04-30 13:33:23,299 :INFO :phone_items :Blackberry
+2024-04-30 13:33:24,078 :INFO :test_e2e :ind
+2024-04-30 13:33:34,902 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 13:33:40,380 :INFO :test_homepage :Shailaja
+2024-04-30 13:33:40,461 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 13:33:40,487 :INFO :test_homepage :Qwerty$#21
+2024-04-30 13:33:40,717 :INFO :test_homepage :Female
+2024-04-30 13:33:40,957 :INFO :test_homepage :Shailaja Samal
+2024-04-30 13:33:41,229 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:33:44,742 :INFO :test_homepage :Rahul
+2024-04-30 13:33:44,742 :INFO :test_homepage :Rahul
+2024-04-30 13:33:44,791 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:33:44,791 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:33:44,803 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:33:44,803 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:33:45,025 :INFO :test_homepage :Male
+2024-04-30 13:33:45,025 :INFO :test_homepage :Male
+2024-04-30 13:33:45,047 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:33:45,047 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:33:45,295 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:33:45,295 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:36:30,422 :INFO :test_e2e :The phones are: 
+2024-04-30 13:36:30,452 :INFO :phone_items :iphone X
+2024-04-30 13:36:30,463 :INFO :phone_items :Samsung Note 8
+2024-04-30 13:36:30,472 :INFO :phone_items :Nokia Edge
+2024-04-30 13:36:30,480 :INFO :phone_items :Blackberry
+2024-04-30 13:36:31,262 :INFO :test_e2e :ind
+2024-04-30 13:36:37,594 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 13:36:43,378 :INFO :test_homepage :Shailaja
+2024-04-30 13:36:43,469 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 13:36:43,494 :INFO :test_homepage :Qwerty$#21
+2024-04-30 13:36:43,728 :INFO :test_homepage :Female
+2024-04-30 13:36:43,969 :INFO :test_homepage :Shailaja Samal
+2024-04-30 13:36:44,235 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:36:47,726 :INFO :test_homepage :Rahul
+2024-04-30 13:36:47,726 :INFO :test_homepage :Rahul
+2024-04-30 13:36:47,775 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:36:47,775 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:36:47,787 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:36:47,787 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:36:48,007 :INFO :test_homepage :Male
+2024-04-30 13:36:48,007 :INFO :test_homepage :Male
+2024-04-30 13:36:48,028 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:36:48,028 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:36:48,277 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:36:48,277 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:38:00,504 :INFO :test_e2e :The phones are: 
+2024-04-30 13:38:00,565 :INFO :phone_items :iphone X
+2024-04-30 13:38:00,642 :INFO :phone_items :Samsung Note 8
+2024-04-30 13:38:00,659 :INFO :phone_items :Nokia Edge
+2024-04-30 13:38:00,668 :INFO :phone_items :Blackberry
+2024-04-30 13:38:03,128 :INFO :test_e2e :ind
+2024-04-30 13:38:16,245 :INFO :test_homepage :Shailaja
+2024-04-30 13:38:17,019 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 13:38:17,325 :INFO :test_homepage :Qwerty$#21
+2024-04-30 13:38:17,913 :INFO :test_homepage :Female
+2024-04-30 13:38:18,101 :INFO :test_homepage :Shailaja Samal
+2024-04-30 13:38:18,339 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:38:22,457 :INFO :test_homepage :Rahul
+2024-04-30 13:38:22,457 :INFO :test_homepage :Rahul
+2024-04-30 13:38:22,610 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:38:22,610 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:38:22,709 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:38:22,709 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:38:22,945 :INFO :test_homepage :Male
+2024-04-30 13:38:22,945 :INFO :test_homepage :Male
+2024-04-30 13:38:23,029 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:38:23,029 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:38:23,338 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:38:23,338 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:40:41,111 :INFO :test_e2e :The phones are: 
+2024-04-30 13:40:41,228 :INFO :phone_items :iphone X
+2024-04-30 13:40:41,333 :INFO :phone_items :Samsung Note 8
+2024-04-30 13:40:41,345 :INFO :phone_items :Nokia Edge
+2024-04-30 13:40:41,355 :INFO :phone_items :Blackberry
+2024-04-30 13:40:44,472 :INFO :test_e2e :ind
+2024-04-30 13:40:57,209 :INFO :test_homepage :Shailaja
+2024-04-30 13:40:57,971 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 13:40:58,221 :INFO :test_homepage :Qwerty$#21
+2024-04-30 13:40:58,801 :INFO :test_homepage :Female
+2024-04-30 13:40:58,993 :INFO :test_homepage :Shailaja Samal
+2024-04-30 13:40:59,232 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:41:03,192 :INFO :test_homepage :Rahul
+2024-04-30 13:41:03,192 :INFO :test_homepage :Rahul
+2024-04-30 13:41:03,311 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:41:03,311 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:41:03,420 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:41:03,420 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:41:03,651 :INFO :test_homepage :Male
+2024-04-30 13:41:03,651 :INFO :test_homepage :Male
+2024-04-30 13:41:03,733 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:41:03,733 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:41:03,984 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:41:03,984 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:42:51,759 :INFO :test_e2e :The phones are: 
+2024-04-30 13:42:51,822 :INFO :phone_items :iphone X
+2024-04-30 13:42:51,903 :INFO :phone_items :Samsung Note 8
+2024-04-30 13:42:51,919 :INFO :phone_items :Nokia Edge
+2024-04-30 13:42:51,927 :INFO :phone_items :Blackberry
+2024-04-30 13:42:54,613 :INFO :test_e2e :ind
+2024-04-30 13:43:08,399 :INFO :test_homepage :Shailaja
+2024-04-30 13:43:09,213 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 13:43:09,414 :INFO :test_homepage :Qwerty$#21
+2024-04-30 13:43:09,973 :INFO :test_homepage :Female
+2024-04-30 13:43:10,167 :INFO :test_homepage :Shailaja Samal
+2024-04-30 13:43:10,408 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:43:14,314 :INFO :test_homepage :Rahul
+2024-04-30 13:43:14,314 :INFO :test_homepage :Rahul
+2024-04-30 13:43:14,430 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:43:14,430 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:43:14,543 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:43:14,543 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:43:14,771 :INFO :test_homepage :Male
+2024-04-30 13:43:14,771 :INFO :test_homepage :Male
+2024-04-30 13:43:14,850 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:43:14,850 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:43:15,104 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:43:15,104 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:45:12,233 :INFO :test_e2e :The phones are: 
+2024-04-30 13:45:12,377 :INFO :phone_items :iphone X
+2024-04-30 13:45:12,497 :INFO :phone_items :Samsung Note 8
+2024-04-30 13:45:12,519 :INFO :phone_items :Nokia Edge
+2024-04-30 13:45:12,529 :INFO :phone_items :Blackberry
+2024-04-30 13:45:15,240 :INFO :test_e2e :ind
+2024-04-30 13:45:28,752 :INFO :test_homepage :Shailaja
+2024-04-30 13:45:29,611 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 13:45:29,865 :INFO :test_homepage :Qwerty$#21
+2024-04-30 13:45:30,544 :INFO :test_homepage :Female
+2024-04-30 13:45:30,721 :INFO :test_homepage :Shailaja Samal
+2024-04-30 13:45:31,055 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:45:35,144 :INFO :test_homepage :Rahul
+2024-04-30 13:45:35,144 :INFO :test_homepage :Rahul
+2024-04-30 13:45:35,281 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:45:35,281 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:45:35,408 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:45:35,408 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:45:35,630 :INFO :test_homepage :Male
+2024-04-30 13:45:35,630 :INFO :test_homepage :Male
+2024-04-30 13:45:35,713 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:45:35,713 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:45:35,998 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:45:35,998 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:56:10,380 :INFO :test_e2e :The phones are: 
+2024-04-30 13:56:10,411 :INFO :phone_items :iphone X
+2024-04-30 13:56:10,423 :INFO :phone_items :Samsung Note 8
+2024-04-30 13:56:10,432 :INFO :phone_items :Nokia Edge
+2024-04-30 13:56:10,440 :INFO :phone_items :Blackberry
+2024-04-30 13:56:11,222 :INFO :test_e2e :ind
+2024-04-30 13:56:17,543 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 13:56:23,226 :INFO :test_homepage :Shailaja
+2024-04-30 13:56:23,315 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 13:56:23,339 :INFO :test_homepage :Qwerty$#21
+2024-04-30 13:56:23,580 :INFO :test_homepage :Female
+2024-04-30 13:56:23,823 :INFO :test_homepage :Shailaja Samal
+2024-04-30 13:56:24,092 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:56:27,603 :INFO :test_homepage :Rahul
+2024-04-30 13:56:27,603 :INFO :test_homepage :Rahul
+2024-04-30 13:56:27,652 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:56:27,652 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:56:27,665 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:56:27,665 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:56:27,887 :INFO :test_homepage :Male
+2024-04-30 13:56:27,887 :INFO :test_homepage :Male
+2024-04-30 13:56:27,906 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:56:27,906 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:56:28,155 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:56:28,155 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:59:21,467 :INFO :test_e2e :The phones are: 
+2024-04-30 13:59:21,500 :INFO :phone_items :iphone X
+2024-04-30 13:59:21,512 :INFO :phone_items :Samsung Note 8
+2024-04-30 13:59:21,521 :INFO :phone_items :Nokia Edge
+2024-04-30 13:59:21,529 :INFO :phone_items :Blackberry
+2024-04-30 13:59:22,322 :INFO :test_e2e :in
+2024-04-30 13:59:28,682 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 13:59:34,270 :INFO :test_homepage :Shailaja
+2024-04-30 13:59:34,359 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 13:59:34,383 :INFO :test_homepage :Qwerty$#21
+2024-04-30 13:59:34,612 :INFO :test_homepage :Female
+2024-04-30 13:59:34,856 :INFO :test_homepage :Shailaja Samal
+2024-04-30 13:59:35,133 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:59:38,835 :INFO :test_homepage :Rahul
+2024-04-30 13:59:38,835 :INFO :test_homepage :Rahul
+2024-04-30 13:59:38,886 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:59:38,886 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 13:59:38,898 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:59:38,898 :INFO :test_homepage :Qwerty$#22
+2024-04-30 13:59:39,122 :INFO :test_homepage :Male
+2024-04-30 13:59:39,122 :INFO :test_homepage :Male
+2024-04-30 13:59:39,143 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:59:39,143 :INFO :test_homepage :Rahul Shetty
+2024-04-30 13:59:39,394 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 13:59:39,394 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:16:33,855 :INFO :test_e2e :The phones are: 
+2024-04-30 16:16:33,934 :INFO :phone_items :iphone X
+2024-04-30 16:16:34,254 :INFO :phone_items :Samsung Note 8
+2024-04-30 16:16:34,434 :INFO :phone_items :Nokia Edge
+2024-04-30 16:16:34,443 :INFO :phone_items :Blackberry
+2024-04-30 16:16:36,344 :INFO :test_e2e :in
+2024-04-30 16:16:41,884 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 16:16:51,681 :INFO :test_homepage :Shailaja
+2024-04-30 16:16:52,472 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 16:16:52,737 :INFO :test_homepage :Qwerty$#21
+2024-04-30 16:16:53,334 :INFO :test_homepage :Female
+2024-04-30 16:16:53,533 :INFO :test_homepage :Shailaja Samal
+2024-04-30 16:16:53,792 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:16:57,853 :INFO :test_homepage :Rahul
+2024-04-30 16:16:57,853 :INFO :test_homepage :Rahul
+2024-04-30 16:16:57,987 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 16:16:57,987 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 16:16:58,110 :INFO :test_homepage :Qwerty$#22
+2024-04-30 16:16:58,110 :INFO :test_homepage :Qwerty$#22
+2024-04-30 16:16:58,354 :INFO :test_homepage :Male
+2024-04-30 16:16:58,354 :INFO :test_homepage :Male
+2024-04-30 16:16:58,439 :INFO :test_homepage :Rahul Shetty
+2024-04-30 16:16:58,439 :INFO :test_homepage :Rahul Shetty
+2024-04-30 16:16:58,699 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:16:58,699 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:18:07,603 :INFO :test_e2e :The phones are: 
+2024-04-30 16:18:07,633 :INFO :phone_items :iphone X
+2024-04-30 16:18:07,645 :INFO :phone_items :Samsung Note 8
+2024-04-30 16:18:07,653 :INFO :phone_items :Nokia Edge
+2024-04-30 16:18:07,661 :INFO :phone_items :Blackberry
+2024-04-30 16:18:08,444 :INFO :test_e2e :in
+2024-04-30 16:18:14,841 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 16:18:21,087 :INFO :test_homepage :Shailaja
+2024-04-30 16:18:21,178 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 16:18:21,202 :INFO :test_homepage :Qwerty$#21
+2024-04-30 16:18:21,436 :INFO :test_homepage :Female
+2024-04-30 16:18:21,694 :INFO :test_homepage :Shailaja Samal
+2024-04-30 16:18:21,967 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:18:25,672 :INFO :test_homepage :Rahul
+2024-04-30 16:18:25,672 :INFO :test_homepage :Rahul
+2024-04-30 16:18:25,720 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 16:18:25,720 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 16:18:25,733 :INFO :test_homepage :Qwerty$#22
+2024-04-30 16:18:25,733 :INFO :test_homepage :Qwerty$#22
+2024-04-30 16:18:25,951 :INFO :test_homepage :Male
+2024-04-30 16:18:25,951 :INFO :test_homepage :Male
+2024-04-30 16:18:25,973 :INFO :test_homepage :Rahul Shetty
+2024-04-30 16:18:25,973 :INFO :test_homepage :Rahul Shetty
+2024-04-30 16:18:26,222 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:18:26,222 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 16:18:50,636 :INFO :test_e2e :The phones are: 
+2024-04-30 16:18:53,046 :INFO :test_homepage :Shailaja
+2024-04-30 16:18:53,128 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 16:18:53,591 :INFO :test_homepage :Qwerty$#21
+2024-04-30 16:18:53,661 :INFO :test_homepage :Female
+2024-04-30 16:18:53,971 :INFO :test_homepage :Rahul
+2024-04-30 16:18:53,971 :INFO :test_homepage :Rahul
+2024-04-30 16:18:53,998 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 16:18:53,998 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 16:18:54,062 :INFO :test_homepage :Qwerty$#22
+2024-04-30 16:18:54,062 :INFO :test_homepage :Qwerty$#22
+2024-04-30 16:18:54,111 :INFO :test_homepage :Male
+2024-04-30 16:18:54,111 :INFO :test_homepage :Male
+2024-04-30 16:18:54,131 :INFO :test_homepage :Rahul Shetty
+2024-04-30 16:18:54,131 :INFO :test_homepage :Rahul Shetty
+2024-04-30 16:18:54,181 :INFO :test_homepage :
+                    ×
+                    Success! The Form has been submitted successfully!.
+                  
+2024-04-30 16:18:54,181 :INFO :test_homepage :
+                    ×
+                    Success! The Form has been submitted successfully!.
+                  
+2024-04-30 17:28:24,014 :INFO :test_e2e :The phones are: 
+2024-04-30 17:28:24,093 :INFO :phone_items :iphone X
+2024-04-30 17:28:24,187 :INFO :phone_items :Samsung Note 8
+2024-04-30 17:28:24,210 :INFO :phone_items :Nokia Edge
+2024-04-30 17:28:24,222 :INFO :phone_items :Blackberry
+2024-04-30 17:28:27,065 :INFO :test_e2e :in
+2024-04-30 17:28:32,734 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 17:28:42,193 :INFO :test_homepage :Shailaja
+2024-04-30 17:28:42,971 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 17:28:43,263 :INFO :test_homepage :Qwerty$#21
+2024-04-30 17:28:43,864 :INFO :test_homepage :Female
+2024-04-30 17:28:44,063 :INFO :test_homepage :Shailaja Samal
+2024-04-30 17:28:44,311 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 17:28:48,529 :INFO :test_homepage :Rahul
+2024-04-30 17:28:48,529 :INFO :test_homepage :Rahul
+2024-04-30 17:28:48,716 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 17:28:48,716 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 17:28:48,830 :INFO :test_homepage :Qwerty$#22
+2024-04-30 17:28:48,830 :INFO :test_homepage :Qwerty$#22
+2024-04-30 17:28:49,086 :INFO :test_homepage :Male
+2024-04-30 17:28:49,086 :INFO :test_homepage :Male
+2024-04-30 17:28:49,175 :INFO :test_homepage :Rahul Shetty
+2024-04-30 17:28:49,175 :INFO :test_homepage :Rahul Shetty
+2024-04-30 17:28:49,515 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 17:28:49,515 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 17:30:05,701 :INFO :test_e2e :The phones are: 
+2024-04-30 17:30:05,821 :INFO :phone_items :iphone X
+2024-04-30 17:30:06,175 :INFO :phone_items :Samsung Note 8
+2024-04-30 17:30:06,431 :INFO :phone_items :Nokia Edge
+2024-04-30 17:30:06,441 :INFO :phone_items :Blackberry
+2024-04-30 17:30:09,158 :INFO :test_e2e :ind
+2024-04-30 17:30:23,508 :INFO :test_homepage :Shailaja
+2024-04-30 17:30:24,308 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 17:30:24,631 :INFO :test_homepage :Qwerty$#21
+2024-04-30 17:30:25,192 :INFO :test_homepage :Female
+2024-04-30 17:30:25,389 :INFO :test_homepage :Shailaja Samal
+2024-04-30 17:30:25,626 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 17:30:29,834 :INFO :test_homepage :Rahul
+2024-04-30 17:30:29,834 :INFO :test_homepage :Rahul
+2024-04-30 17:30:30,003 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 17:30:30,003 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 17:30:30,239 :INFO :test_homepage :Qwerty$#22
+2024-04-30 17:30:30,239 :INFO :test_homepage :Qwerty$#22
+2024-04-30 17:30:30,523 :INFO :test_homepage :Male
+2024-04-30 17:30:30,523 :INFO :test_homepage :Male
+2024-04-30 17:30:30,612 :INFO :test_homepage :Rahul Shetty
+2024-04-30 17:30:30,612 :INFO :test_homepage :Rahul Shetty
+2024-04-30 17:30:30,936 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 17:30:30,936 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 17:32:13,384 :INFO :test_e2e :The phones are: 
+2024-04-30 17:32:13,416 :INFO :phone_items :iphone X
+2024-04-30 17:32:13,428 :INFO :phone_items :Samsung Note 8
+2024-04-30 17:32:13,436 :INFO :phone_items :Nokia Edge
+2024-04-30 17:32:13,448 :INFO :phone_items :Blackberry
+2024-04-30 17:32:14,236 :INFO :test_e2e :ind
+2024-04-30 17:32:20,643 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-30 17:32:26,240 :INFO :test_homepage :Shailaja
+2024-04-30 17:32:26,334 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 17:32:26,357 :INFO :test_homepage :Qwerty$#21
+2024-04-30 17:32:26,591 :INFO :test_homepage :Female
+2024-04-30 17:32:26,832 :INFO :test_homepage :Shailaja Samal
+2024-04-30 17:32:27,111 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 17:32:30,616 :INFO :test_homepage :Rahul
+2024-04-30 17:32:30,616 :INFO :test_homepage :Rahul
+2024-04-30 17:32:30,661 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 17:32:30,661 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 17:32:30,674 :INFO :test_homepage :Qwerty$#22
+2024-04-30 17:32:30,674 :INFO :test_homepage :Qwerty$#22
+2024-04-30 17:32:30,893 :INFO :test_homepage :Male
+2024-04-30 17:32:30,893 :INFO :test_homepage :Male
+2024-04-30 17:32:30,915 :INFO :test_homepage :Rahul Shetty
+2024-04-30 17:32:30,915 :INFO :test_homepage :Rahul Shetty
+2024-04-30 17:32:31,159 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 17:32:31,159 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-04-30 17:33:52,642 :INFO :test_e2e :The phones are: 
+2024-04-30 17:33:52,686 :INFO :phone_items :iphone X
+2024-04-30 17:33:52,693 :INFO :phone_items :Samsung Note 8
+2024-04-30 17:33:52,701 :INFO :phone_items :Nokia Edge
+2024-04-30 17:33:52,709 :INFO :phone_items :Blackberry
+2024-04-30 17:33:53,862 :INFO :test_e2e :ind
+2024-04-30 17:33:59,848 :INFO :test_e2e :
+          ×
+          Success! Thank you! Your order will be delivered in next few weeks :-).
+        
+2024-04-30 17:34:03,071 :INFO :test_homepage :Shailaja
+2024-04-30 17:34:03,133 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 17:34:03,253 :INFO :test_homepage :Qwerty$#21
+2024-04-30 17:34:03,353 :INFO :test_homepage :Female
+2024-04-30 17:34:03,685 :INFO :test_homepage :Rahul
+2024-04-30 17:34:03,685 :INFO :test_homepage :Rahul
+2024-04-30 17:34:03,717 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 17:34:03,717 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 17:34:03,779 :INFO :test_homepage :Qwerty$#22
+2024-04-30 17:34:03,779 :INFO :test_homepage :Qwerty$#22
+2024-04-30 17:34:03,835 :INFO :test_homepage :Male
+2024-04-30 17:34:03,835 :INFO :test_homepage :Male
+2024-04-30 17:34:03,859 :INFO :test_homepage :Rahul Shetty
+2024-04-30 17:34:03,859 :INFO :test_homepage :Rahul Shetty
+2024-04-30 17:34:03,891 :INFO :test_homepage :
+                    ×
+                    Success! The Form has been submitted successfully!.
+                  
+2024-04-30 17:34:03,891 :INFO :test_homepage :
+                    ×
+                    Success! The Form has been submitted successfully!.
+                  
+2024-04-30 17:36:35,527 :INFO :test_e2e :The phones are: 
+2024-04-30 17:36:35,558 :INFO :phone_items :iphone X
+2024-04-30 17:36:35,566 :INFO :phone_items :Samsung Note 8
+2024-04-30 17:36:35,575 :INFO :phone_items :Nokia Edge
+2024-04-30 17:36:35,592 :INFO :phone_items :Blackberry
+2024-04-30 17:36:36,692 :INFO :test_e2e :ind
+2024-04-30 17:36:42,307 :INFO :test_e2e :
+          ×
+          Success! Thank you! Your order will be delivered in next few weeks :-).
+        
+2024-04-30 17:36:45,491 :INFO :test_homepage :Shailaja
+2024-04-30 17:36:45,547 :INFO :test_homepage :shailajasamal@gmail.com
+2024-04-30 17:36:45,634 :INFO :test_homepage :Qwerty$#21
+2024-04-30 17:36:45,703 :INFO :test_homepage :Female
+2024-04-30 17:36:46,055 :INFO :test_homepage :Rahul
+2024-04-30 17:36:46,055 :INFO :test_homepage :Rahul
+2024-04-30 17:36:46,087 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 17:36:46,087 :INFO :test_homepage :rahulshetty@gmail.com
+2024-04-30 17:36:46,146 :INFO :test_homepage :Qwerty$#22
+2024-04-30 17:36:46,146 :INFO :test_homepage :Qwerty$#22
+2024-04-30 17:36:46,202 :INFO :test_homepage :Male
+2024-04-30 17:36:46,202 :INFO :test_homepage :Male
+2024-04-30 17:36:46,224 :INFO :test_homepage :Rahul Shetty
+2024-04-30 17:36:46,224 :INFO :test_homepage :Rahul Shetty
+2024-04-30 17:36:46,263 :INFO :test_homepage :
+                    ×
+                    Success! The Form has been submitted successfully!.
+                  
+2024-04-30 17:36:46,263 :INFO :test_homepage :
+                    ×
+                    Success! The Form has been submitted successfully!.
+                  
+2024-05-07 16:11:38,906 :INFO :test_e2e :The phones are: 
+2024-05-07 16:11:38,969 :INFO :phone_items :iphone X
+2024-05-07 16:11:39,044 :INFO :phone_items :Samsung Note 8
+2024-05-07 16:11:39,059 :INFO :phone_items :Nokia Edge
+2024-05-07 16:11:39,068 :INFO :phone_items :Blackberry
+2024-05-07 16:11:41,840 :INFO :test_e2e :ind
+2024-05-07 16:13:41,802 :INFO :test_homepage :Shailaja
+2024-05-07 16:13:42,675 :INFO :test_homepage :shailajasamal@gmail.com
+2024-05-07 16:13:42,859 :INFO :test_homepage :Qwerty$#21
+2024-05-07 16:13:43,436 :INFO :test_homepage :Female
+2024-05-07 16:13:43,645 :INFO :test_homepage :ShailajaSamal
+2024-05-07 16:13:44,157 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-05-07 16:13:48,390 :INFO :test_homepage :Rahul
+2024-05-07 16:13:48,390 :INFO :test_homepage :Rahul
+2024-05-07 16:13:48,539 :INFO :test_homepage :rahulshetty@gmail.com
+2024-05-07 16:13:48,539 :INFO :test_homepage :rahulshetty@gmail.com
+2024-05-07 16:13:48,676 :INFO :test_homepage :Qwerty$#22
+2024-05-07 16:13:48,676 :INFO :test_homepage :Qwerty$#22
+2024-05-07 16:13:48,944 :INFO :test_homepage :Male
+2024-05-07 16:13:48,944 :INFO :test_homepage :Male
+2024-05-07 16:13:49,030 :INFO :test_homepage :RahulShetty
+2024-05-07 16:13:49,030 :INFO :test_homepage :RahulShetty
+2024-05-07 16:13:49,281 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.
+2024-05-07 16:13:49,281 :INFO :test_homepage :×
+Success! The Form has been submitted successfully!.

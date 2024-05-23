@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="3" time="15.620" timestamp="2024-04-30T17:36:34.008216" hostname="Shailajas-MacBook-Pro.local"><testcase classname="test_e2e.TestOne_E2E_Purchase" name="test_e2e" time="10.356" /><testcase classname="test_home.TestTwo_E2E_Home" name="test_homepage[data0]" time="1.322"><failure message="selenium.common.exceptions.ElementNotInteractableException: Message:">self = &lt;tests.test_home.TestTwo_E2E_Home object at 0x7fcba87ba700&gt;
+data = {'email': 'shailajasamal@gmail.com', 'firstname': 'Shailaja', 'gender': 'Female', 'lastname': ' Samal', ...}
+
+    def test_homepage(self, data):
+        log = self.getLogger()
+        homepage = HomePage(self.driver)
+        log.info(data["firstname"])
+        homepage.name().send_keys(data["firstname"])
+        log.info(data["email"])
+        homepage.email().send_keys(data["email"])
+        log.info(data["password"])
+        homepage.password().send_keys(data["password"])
+        homepage.checkbox().click()
+        log.info(data["gender"])
+&gt;       self.drop_downs(homepage.gender_dropdown(), data["gender"])
+
+test_home.py:20: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+../utilities/baseclass.py:30: in drop_downs
+    dropdown.select_by_visible_text(text)   # "Female"
+../../../../Library/Python/3.8/lib/python/site-packages/selenium/webdriver/support/select.py:117: in select_by_visible_text
+    self._set_selected(opt)
+../../../../Library/Python/3.8/lib/python/site-packages/selenium/webdriver/support/select.py:214: in _set_selected
+    option.click()
+../../../../Library/Python/3.8/lib/python/site-packages/selenium/webdriver/remote/webelement.py:94: in click
+    self._execute(Command.CLICK_ELEMENT)
+../../../../Library/Python/3.8/lib/python/site-packages/selenium/webdriver/remote/webelement.py:395: in _execute
+    return self._parent.execute(command, params)
+../../../../Library/Python/3.8/lib/python/site-packages/selenium/webdriver/remote/webdriver.py:347: in execute
+    self.error_handler.check_response(response)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = &lt;selenium.webdriver.remote.errorhandler.ErrorHandler object at 0x7fcbe881c520&gt;
+response = {'status': 400, 'value': '{"value":{"error":"element not interactable","message":"","stacktrace":""}}'}
+
+    def check_response(self, response: Dict[str, Any]) -&gt; None:
+        """Checks that a JSON response from the WebDriver does not have an
+        error.
+    
+        :Args:
+         - response - The JSON response from the WebDriver server as a dictionary
+           object.
+    
+        :Raises: If the response contains an error message.
+        """
+        status = response.get("status", None)
+        if not status or status == ErrorCode.SUCCESS:
+            return
+        value = None
+        message = response.get("message", "")
+        screen: str = response.get("screen", "")
+        stacktrace = None
+        if isinstance(status, int):
+            value_json = response.get("value", None)
+            if value_json and isinstance(value_json, str):
+                import json
+    
+                try:
+                    value = json.loads(value_json)
+                    if len(value) == 1:
+                        value = value["value"]
+                    status = value.get("error", None)
+                    if not status:
+                        status = value.get("status", ErrorCode.UNKNOWN_ERROR)
+                        message = value.get("value") or value.get("message")
+                        if not isinstance(message, str):
+                            value = message
+                            message = message.get("message")
+                    else:
+                        message = value.get("message", None)
+                except ValueError:
+                    pass
+    
+        exception_class: Type[WebDriverException]
+        e = ErrorCode()
+        error_codes = [item for item in dir(e) if not item.startswith("__")]
+        for error_code in error_codes:
+            error_info = getattr(ErrorCode, error_code)
+            if isinstance(error_info, list) and status in error_info:
+                exception_class = getattr(ExceptionMapping, error_code, WebDriverException)
+                break
+        else:
+            exception_class = WebDriverException
+    
+        if not value:
+            value = response["value"]
+        if isinstance(value, str):
+            raise exception_class(value)
+        if message == "" and "message" in value:
+            message = value["message"]
+    
+        screen = None  # type: ignore[assignment]
+        if "screen" in value:
+            screen = value["screen"]
+    
+        stacktrace = None
+        st_value = value.get("stackTrace") or value.get("stacktrace")
+        if st_value:
+            if isinstance(st_value, str):
+                stacktrace = st_value.split("\n")
+            else:
+                stacktrace = []
+                try:
+                    for frame in st_value:
+                        line = frame.get("lineNumber", "")
+                        file = frame.get("fileName", "&lt;anonymous&gt;")
+                        if line:
+                            file = f"{file}:{line}"
+                        meth = frame.get("methodName", "&lt;anonymous&gt;")
+                        if "className" in frame:
+                            meth = f"{frame['className']}.{meth}"
+                        msg = "    at %s (%s)"
+                        msg = msg % (meth, file)
+                        stacktrace.append(msg)
+                except TypeError:
+                    pass
+        if exception_class == UnexpectedAlertPresentException:
+            alert_text = None
+            if "data" in value:
+                alert_text = value["data"].get("text")
+            elif "alert" in value:
+                alert_text = value["alert"].get("text")
+            raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here
+&gt;       raise exception_class(message, screen, stacktrace)
+E       selenium.common.exceptions.ElementNotInteractableException: Message:
+
+../../../../Library/Python/3.8/lib/python/site-packages/selenium/webdriver/remote/errorhandler.py:229: ElementNotInteractableException</failure></testcase><testcase classname="test_home.TestTwo_E2E_Home" name="test_homepage[data1]" time="3.571" /></testsuite></testsuites>
