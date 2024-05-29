@@ -10,7 +10,7 @@ class TestOne_E2E_Purchase(BaseClass):
         log = self.getLogger()
         homepage = HomePage(self.driver)
         homepage.shop_items().click()  # //a[@href="/angularpractice/shop"]
-        log.info("The phones are: ")
+        log.info("The cell phones are: ")
 
         checkout = CheckOut(self.driver)
         checkout.phone_items().click()
@@ -32,7 +32,7 @@ class TestOne_E2E_Purchase(BaseClass):
         confirm.purchase_click().click()
         alert_message = confirm.success_message().text
         log.info(alert_message)
-        print(alert_message)
+        print(f"alert_message: {alert_message}")
         assert "Success!" in alert_message
 
         time.sleep(2)
