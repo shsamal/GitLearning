@@ -33,6 +33,7 @@ class TestOne_E2E_Purchase(BaseClass):
         alert_message = confirm.success_message().text
         log.info(alert_message)
         print(f"alert_message: {alert_message}")
+        print(f"alert_message: {alert_message}")
         assert "Success!" in alert_message
 
         time.sleep(2)
