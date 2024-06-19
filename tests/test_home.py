@@ -23,6 +23,8 @@ class TestTwo_E2E_Home(BaseClass):
         message = homepage.message().text
         log.info(message)
         print(message)
+        print(message)
+        print(message)
         assert "Success! The Form has been submitted successfully!" in message
 
         homepage.dual_name().send_keys(data["lastname"])
